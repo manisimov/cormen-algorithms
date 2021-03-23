@@ -1,5 +1,6 @@
 #include <stdint.h>
 #include <stddef.h>
+#include "ins_sort.h"
 
 void ins_sort(int32_t *in, size_t in_size)
 {
